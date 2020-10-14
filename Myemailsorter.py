@@ -1,5 +1,6 @@
 #do make sure that imap is enabled in the respective email's settings
 #Less secure apps also may have to be enabled
+#Sorts emails with 'Thank you for applying' in the subject into a job label 
 import imaplib
 import email
 import getpass
